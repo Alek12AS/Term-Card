@@ -1,13 +1,16 @@
 * {
     box-sizing: border-box;
 }
-a {
-    text-decoration: none;
-    color:  #FF0000;
+
+.check-all {
+	text-decoration: none;
+	color:  #FF0000;
 }
-body {
-    margin: 40px;
-}
+
+/*  body {
+	 margin: 40px;
+} */
+
 .dropdown {
     position: relative;
     font-size: 14px;
